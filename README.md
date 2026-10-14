@@ -1,3 +1,5 @@
+> **Moved:** this repository has been merged into [joy7758/sids-execution-evidence-fdo-desktop](https://github.com/joy7758/sids-execution-evidence-fdo-desktop/tree/main/paper_20260407_sids_execution_evidence_fdo) with full history. This repo is archived and read-only.
+
 # SIDS Execution Evidence FDO 新稿工程
 
 本目录用于隔离一条新的独立稿线：
